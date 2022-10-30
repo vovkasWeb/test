@@ -3,3 +3,7 @@ body
 	margin: auto;
 	padding: 0cm;
 }
+.header{
+	background-color: #ccc;
+	width: 200px;
+}
